@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='980' height='580'>
+<rect width='100%' height='100%' fill='white'/>
+<line x1='80' y1='500' x2='900' y2='500' stroke='black'/>
+<line x1='80' y1='80' x2='80' y2='500' stroke='black'/>
+<text x='490.0' y='30' text-anchor='middle' font-size='22'>Reference-qubit entropy crossings (eta=0.50)</text>
+<text x='490.0' y='560' text-anchor='middle' font-size='16'>g</text>
+<text x='25' y='290.0' transform='rotate(-90 25 290.0)' text-anchor='middle' font-size='16'>S_ref</text>
+<path d='M 80.00 500.00 L 182.50 341.34 L 285.00 228.73 L 387.50 157.18 L 490.00 116.41 L 592.50 95.57 L 695.00 86.03 L 797.50 82.11 L 900.00 80.67' fill='none' stroke='#1f77b4' stroke-width='2.0' />
+<line x1='670' y1='80' x2='710' y2='80' stroke='#1f77b4' stroke-width='2.0'/><text x='720' y='85' font-size='13'>L=16</text>
+<path d='M 80.00 363.23 L 182.50 222.70 L 285.00 142.59 L 387.50 103.76 L 490.00 87.78 L 592.50 82.19 L 695.00 80.53 L 797.50 80.11 L 900.00 80.02' fill='none' stroke='#d62728' stroke-width='2.0' />
+<line x1='670' y1='100' x2='710' y2='100' stroke='#d62728' stroke-width='2.0'/><text x='720' y='105' font-size='13'>L=24</text>
+<path d='M 80.00 273.48 L 182.50 158.96 L 285.00 106.64 L 387.50 87.38 L 490.00 81.67 L 592.50 80.31 L 695.00 80.05 L 797.50 80.01 L 900.00 80.00' fill='none' stroke='#2ca02c' stroke-width='2.0' />
+<line x1='670' y1='120' x2='710' y2='120' stroke='#2ca02c' stroke-width='2.0'/><text x='720' y='125' font-size='13'>L=32</text>
+<path d='M 80.00 213.14 L 182.50 123.98 L 285.00 91.39 L 387.50 82.30 L 490.00 80.36 L 592.50 80.04 L 695.00 80.00 L 797.50 80.00 L 900.00 80.00' fill='none' stroke='#9467bd' stroke-width='2.0' />
+<line x1='670' y1='140' x2='710' y2='140' stroke='#9467bd' stroke-width='2.0'/><text x='720' y='145' font-size='13'>L=40</text>
+<path d='M 80.00 172.04 L 182.50 104.58 L 285.00 84.88 L 387.50 80.71 L 490.00 80.08 L 592.50 80.01 L 695.00 80.00 L 797.50 80.00 L 900.00 80.00' fill='none' stroke='#ff7f0e' stroke-width='2.0' />
+<line x1='670' y1='160' x2='710' y2='160' stroke='#ff7f0e' stroke-width='2.0'/><text x='720' y='165' font-size='13'>L=48</text>
+</svg>
