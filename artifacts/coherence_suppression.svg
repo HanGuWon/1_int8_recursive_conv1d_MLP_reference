@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='520'>
+<rect width='100%' height='100%' fill='white'/>
+<line x1='70' y1='450' x2='830' y2='450' stroke='black'/>
+<line x1='70' y1='70' x2='70' y2='450' stroke='black'/>
+<text x='450.0' y='30' text-anchor='middle' font-size='20'>Coherence suppression</text>
+<text x='450.0' y='500' text-anchor='middle' font-size='16'>n</text>
+<text x='20' y='260.0' transform='rotate(-90,20,260.0)' text-anchor='middle' font-size='16'>coherence factor</text>
+<path d='M 70.00 70.00 L 94.52 163.26 L 143.55 286.74 L 241.61 397.10 L 437.74 444.49 L 830.00 450.00' fill='none' stroke='#ff7f0e' stroke-width='2' />
+<line x1='640' y1='70' x2='670' y2='70' stroke='#ff7f0e' stroke-width='2'/><text x='680' y='75' font-size='14'>MC</text>
+<path d='M 70.00 70.00 L 94.52 163.26 L 143.55 286.74 L 241.61 397.10 L 437.74 444.49 L 830.00 450.00' fill='none' stroke='#17becf' stroke-width='2' />
+<line x1='640' y1='90' x2='670' y2='90' stroke='#17becf' stroke-width='2'/><text x='680' y='95' font-size='14'>exp(-n gamma_hid)</text>
+</svg>
