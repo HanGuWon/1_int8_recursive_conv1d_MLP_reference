@@ -1,0 +1,142 @@
+[
+  {
+    "eta": 1.0,
+    "L_pair": "16-24",
+    "gc_record": 0.3,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 1.0,
+    "L_pair": "24-32",
+    "gc_record": 0.4333333333333333,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 1.0,
+    "L_pair": "32-40",
+    "gc_record": 0.364,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 1.0,
+    "L_pair": "40-48",
+    "gc_record": 0.32666666666666666,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.9,
+    "L_pair": "16-24",
+    "gc_record": 0.33999999999999997,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.9,
+    "L_pair": "24-32",
+    "gc_record": 0.33999999999999997,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.9,
+    "L_pair": "32-40",
+    "gc_record": 0.33999999999999997,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.9,
+    "L_pair": "40-48",
+    "gc_record": 0.33999999999999997,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.75,
+    "L_pair": "16-24",
+    "gc_record": 0.348,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.75,
+    "L_pair": "24-32",
+    "gc_record": 0.3,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.75,
+    "L_pair": "32-40",
+    "gc_record": 0.5133333333333333,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.75,
+    "L_pair": "40-48",
+    "gc_record": 0.3,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.5,
+    "L_pair": "16-24",
+    "gc_record": 0.33999999999999997,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.5,
+    "L_pair": "24-32",
+    "gc_record": 0.35333333333333333,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.5,
+    "L_pair": "32-40",
+    "gc_record": 0.35333333333333333,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.5,
+    "L_pair": "40-48",
+    "gc_record": 0.45999999999999996,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.25,
+    "L_pair": "16-24",
+    "gc_record": 0.45999999999999996,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.25,
+    "L_pair": "24-32",
+    "gc_record": 0.54,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.25,
+    "L_pair": "32-40",
+    "gc_record": 0.54,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  },
+  {
+    "eta": 0.25,
+    "L_pair": "40-48",
+    "gc_record": 0.3,
+    "gc_state": -1.0,
+    "Delta_c": -1.0
+  }
+]

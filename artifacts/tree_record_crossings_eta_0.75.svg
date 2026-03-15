@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='980' height='580'>
+<rect width='100%' height='100%' fill='white'/>
+<line x1='80' y1='500' x2='900' y2='500' stroke='black'/>
+<line x1='80' y1='80' x2='80' y2='500' stroke='black'/>
+<text x='490.0' y='32' text-anchor='middle' font-size='22'>Record-only decoder crossings (eta=0.75)</text>
+<text x='490.0' y='560' text-anchor='middle' font-size='16'>measurement strength g</text>
+<text x='26' y='290.0' transform='rotate(-90 26 290.0)' text-anchor='middle' font-size='16'>P_dec</text>
+<path d='M 80.00 484.82 L 138.57 424.10 L 197.14 358.31 L 255.71 292.53 L 314.29 338.07 L 372.86 221.69 L 431.43 191.33 L 490.00 226.75 L 548.57 191.33 L 607.14 196.39 L 665.71 186.27 L 724.29 130.60 L 782.86 166.02 L 841.43 155.90 L 900.00 140.72' fill='none' stroke='#1f77b4' stroke-width='2.1' />
+<line x1='700' y1='80' x2='735' y2='80' stroke='#1f77b4' stroke-width='2.1'/><text x='745' y='85' font-size='13'>d=4</text>
+<path d='M 80.00 429.16 L 138.57 419.04 L 197.14 413.98 L 255.71 292.53 L 314.29 282.41 L 372.86 252.05 L 431.43 252.05 L 490.00 241.93 L 548.57 171.08 L 607.14 206.51 L 665.71 145.78 L 724.29 160.96 L 782.86 155.90 L 841.43 150.84 L 900.00 85.06' fill='none' stroke='#d62728' stroke-width='2.1' />
+<line x1='700' y1='100' x2='735' y2='100' stroke='#d62728' stroke-width='2.1'/><text x='745' y='105' font-size='13'>d=5</text>
+<path d='M 80.00 464.58 L 138.57 383.61 L 197.14 348.19 L 255.71 327.95 L 314.29 277.35 L 372.86 246.99 L 431.43 302.65 L 490.00 221.69 L 548.57 166.02 L 607.14 196.39 L 665.71 191.33 L 724.29 171.08 L 782.86 140.72 L 841.43 150.84 L 900.00 80.00' fill='none' stroke='#2ca02c' stroke-width='2.1' />
+<line x1='700' y1='120' x2='735' y2='120' stroke='#2ca02c' stroke-width='2.1'/><text x='745' y='125' font-size='13'>d=6</text>
+<path d='M 80.00 449.40 L 138.57 469.64 L 197.14 312.77 L 255.71 343.13 L 314.29 262.17 L 372.86 252.05 L 431.43 226.75 L 490.00 257.11 L 548.57 171.08 L 607.14 216.63 L 665.71 201.45 L 724.29 150.84 L 782.86 171.08 L 841.43 130.60 L 900.00 120.48' fill='none' stroke='#9467bd' stroke-width='2.1' />
+<line x1='700' y1='140' x2='735' y2='140' stroke='#9467bd' stroke-width='2.1'/><text x='745' y='145' font-size='13'>d=7</text>
+<path d='M 80.00 500.00 L 138.57 363.37 L 197.14 338.07 L 255.71 358.31 L 314.29 322.89 L 372.86 231.81 L 431.43 196.39 L 490.00 211.57 L 548.57 252.05 L 607.14 226.75 L 665.71 125.54 L 724.29 150.84 L 782.86 125.54 L 841.43 100.24 L 900.00 110.36' fill='none' stroke='#ff7f0e' stroke-width='2.1' />
+<line x1='700' y1='160' x2='735' y2='160' stroke='#ff7f0e' stroke-width='2.1'/><text x='745' y='165' font-size='13'>d=8</text>
+<path d='M 80.00 429.16 L 138.57 363.37 L 197.14 393.73 L 255.71 262.17 L 314.29 262.17 L 372.86 282.41 L 431.43 241.93 L 490.00 252.05 L 548.57 176.14 L 607.14 145.78 L 665.71 176.14 L 724.29 186.27 L 782.86 166.02 L 841.43 135.66 L 900.00 140.72' fill='none' stroke='#17becf' stroke-width='2.1' />
+<line x1='700' y1='180' x2='735' y2='180' stroke='#17becf' stroke-width='2.1'/><text x='745' y='185' font-size='13'>d=9</text>
+</svg>

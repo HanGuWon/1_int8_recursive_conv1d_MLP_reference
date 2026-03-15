@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='980' height='560'>
+<rect width='100%' height='100%' fill='white'/>
+<line x1='80' y1='480' x2='900' y2='480' stroke='black'/>
+<line x1='80' y1='80' x2='80' y2='480' stroke='black'/>
+<text x='490.0' y='30' text-anchor='middle' font-size='22'>Δt scaling of exact-vs-Gaussian coherence mismatch</text>
+<text x='490.0' y='540' text-anchor='middle' font-size='16'>Delta t</text>
+<text x='24' y='280.0' transform='rotate(-90 24 280.0)' text-anchor='middle' font-size='16'>L2 error</text>
+<path d='M 80.00 80.08 L 154.55 169.34 L 229.09 232.07 L 303.64 280.82 L 378.18 320.59 L 527.27 380.76 L 676.36 427.88 L 900.00 479.40' fill='none' stroke='#1f77b4' stroke-width='2.1' />
+<line x1='660' y1='80' x2='695' y2='80' stroke='#1f77b4' stroke-width='2.1'/><text x='705' y='85' font-size='13'>QND (omega=0)</text>
+<path d='M 80.00 80.00 L 154.55 168.27 L 229.09 232.39 L 303.64 281.06 L 378.18 320.65 L 527.27 381.09 L 676.36 427.85 L 900.00 480.00' fill='none' stroke='#d62728' stroke-width='2.1' />
+<line x1='660' y1='100' x2='695' y2='100' stroke='#d62728' stroke-width='2.1'/><text x='705' y='105' font-size='13'>non-QND (omega=1.2)</text>
+</svg>
